@@ -2,6 +2,10 @@
 
 OpenCart 4.1.0.3 için kapsamlı Türkçe dil eklentisi.
 
+> 🇹🇷 Mevcut OpenCart Türkçe çevirilerindeki reklamlar ve eksiklikler canımı sıktığı için bu dil paketini sıfırdan hazırladım. Çeviri sürecinde [Antigravity IDE](https://antigravity.dev) ve Gemini 3.0 Flash modelinden faydalandım. Tüm çevirileri kontrol ettim, herhangi bir sorun görmedim — ama gözümden kaçan bir şey varsa issue açın, memnuniyetle düzeltirim! 
+
+
+
 ## Özellikler
 
 - Admin paneli tam Türkçe çeviri
