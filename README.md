@@ -1,6 +1,6 @@
-# OpenCart 4.x Türkçe Dil Paketi
+# OpenCart 4.1.0.3 Türkçe Dil Paketi
 
-OpenCart 4.x için kapsamlı Türkçe dil eklentisi.
+OpenCart 4.1.0.3 için kapsamlı Türkçe dil eklentisi.
 
 ## Özellikler
 
