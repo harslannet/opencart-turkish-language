@@ -1,0 +1,136 @@
+<?php
+// Heading
+$_['heading_title']              = 'Siparişler';
+
+// Text
+$_['text_success']               = 'Başarılı: Siparişler güncellendi!';
+$_['text_list']                  = 'Sipariş Listesi';
+$_['text_add']                   = 'Sipariş Ekle';
+$_['text_edit']                  = 'Sipariş (#%s)';
+$_['text_filter']                = 'Filtrele';
+$_['text_store']                 = 'Mağaza';
+$_['text_date_added']            = 'Ekleme Tarihi';
+$_['text_customer']              = 'Müşteri';
+$_['text_product_add']           = 'Ürün Ekle';
+$_['text_model'] 			     = 'Model';
+$_['text_reward']                = 'Ödül Puanları';
+$_['text_points']                = 'Puan';
+$_['text_reward_add']            = 'Başarılı: Ödül puanları eklendi!';
+$_['text_reward_remove']         = 'Başarılı: Ödül puanları kaldırıldı!';
+$_['text_affiliate']             = 'Ortak';
+$_['text_commission']            = 'Komisyon';
+$_['text_commission_add']        = 'Başarılı: Komisyon eklendi!';
+$_['text_commission_remove']     = 'Başarılı: Komisyon kaldırıldı!';
+$_['text_upload']                = 'Dosyanız başarıyla yüklendi!';
+$_['text_subscription']          = 'Abonelik';
+$_['text_subscription_trial']    = '%d %s(s) için her %s ardından ';
+$_['text_subscription_duration'] = '%d %s(s) için her %s';
+$_['text_subscription_cancel']   = 'iptal edilene kadar her %d %s(s)';
+$_['text_day']                   = 'gün';
+$_['text_week']                  = 'hafta';
+$_['text_semi_month']            = 'yarım ay';
+$_['text_month']                 = 'ay';
+$_['text_year']                  = 'yıl';
+$_['text_more']                  = 'Daha fazla..';
+$_['text_less']                  = 'Daha az..';
+$_['text_payment_address']       = 'Ödeme Adresi';
+$_['text_payment_method']        = 'Ödeme Yöntemi';
+$_['text_payment']               = 'Lütfen bu sipariş için tercih edilen ödeme yöntemini seçin.';
+$_['text_shipping_address']      = 'Teslimat Adresi';
+$_['text_shipping_method']       = 'Teslimat Yöntemi';
+$_['text_shipping']              = 'Lütfen bu sipariş için tercih edilen teslimat yöntemini seçin.';
+$_['text_comment']               = 'Yorum';
+$_['text_history']               = 'Geçmiş';
+$_['text_history_add']           = 'Geçmiş Ekle';
+$_['text_browser']               = 'Tarayıcı';
+$_['text_ip']                    = 'IP Adresi';
+$_['text_forwarded_ip']          = 'Yönlendirilen IP';
+$_['text_user_agent']            = 'User Agent';
+$_['text_accept_language']       = 'Dil Tercihi';
+$_['text_order_id']              = 'Sipariş ID';
+$_['text_website']               = 'Web Sitesi';
+$_['text_invoice']               = 'Fatura';
+$_['text_invoice_no']            = 'Fatura No.';
+$_['text_tbc']                   = 'TBC';
+$_['text_store_address']         = 'Mağaza Adresi';
+$_['text_store_telephone']       = 'Mağaza Telefonu';
+$_['text_store_email']           = 'Mağaza E-Posta';
+$_['text_customer_email']        = 'Müşteri E-Posta';
+$_['text_customer_telephone']    = 'Müşteri Telefonu';
+$_['text_missing']               = 'Eksik Siparişler';
+$_['text_default']               = 'Varsayılan';
+$_['text_picklist']              = 'Sevk İrsaliyesi';
+$_['text_sku']                   = 'SKU';
+$_['text_upc']                   = 'UPC';
+$_['text_ean']                   = 'EAN';
+$_['text_jan']                   = 'JAN';
+$_['text_isbn']                  = 'ISBN';
+$_['text_mpn']                   = 'MPN';
+
+// Column
+$_['column_order_id']            = 'Sipariş ID';
+$_['column_customer']            = 'Müşteri';
+$_['column_store']               = 'Mağaza';
+$_['column_status']              = 'Durum';
+$_['column_date_added']          = 'Ekleme Tarihi';
+$_['column_date_modified']       = 'Düzenleme Tarihi';
+$_['column_total']               = 'Toplam';
+$_['column_product']             = 'Ürün';
+$_['column_model']               = 'Model';
+$_['column_quantity']            = 'Adet';
+$_['column_price']               = 'Birim Fiyat';
+$_['column_comment']             = 'Yorum';
+$_['column_notify']              = 'Müşteri Bilgilendirildi';
+$_['column_location']            = 'Konum';
+$_['column_reference']           = 'Referans';
+$_['column_weight']              = 'Ürün Ağırlığı';
+$_['column_action']              = 'Eylem';
+
+// Entry
+$_['entry_store']                = 'Mağaza';
+$_['entry_customer']             = 'Müşteri';
+$_['entry_customer_group']       = 'Müşteri Grubu';
+$_['entry_firstname']            = 'Ad';
+$_['entry_lastname']             = 'Soyad';
+$_['entry_email']                = 'E-Posta';
+$_['entry_telephone']            = 'Telefon';
+$_['entry_address']              = 'Adres Seç';
+$_['entry_company']              = 'Şirket';
+$_['entry_address_1']            = 'Adres 1';
+$_['entry_address_2']            = 'Adres 2';
+$_['entry_city']                 = 'Şehir';
+$_['entry_postcode']             = 'Posta Kodu';
+$_['entry_country']              = 'Ülke';
+$_['entry_zone']                 = 'Şehir / Eyalet';
+$_['entry_product']              = 'Ürün Seç';
+$_['entry_option']               = 'Seçenek(leri) Seç';
+$_['entry_subscription']         = 'Abonelik Seç';
+$_['entry_quantity']             = 'Adet';
+$_['entry_order_status']         = 'Sipariş Durumu';
+$_['entry_notify']               = 'Müşteriye Bildir';
+$_['entry_shipping_method']      = 'Teslimat Yöntemi';
+$_['entry_payment_method']       = 'Ödeme Yöntemi';
+$_['entry_override']             = 'Geçersiz Kıl';
+$_['entry_comment']              = 'Yorum';
+$_['entry_language']             = 'Dil';
+$_['entry_currency']             = 'Para Birimi';
+$_['entry_affiliate']            = 'Ortak';
+$_['entry_order_id']             = 'Sipariş ID';
+$_['entry_total']                = 'Toplam';
+$_['entry_date_from']            = 'Başlangıç Tarihi';
+$_['entry_date_to']              = 'Bitiş Tarihi';
+$_['entry_date_modified_from']   = 'Düzenleme Tarihi (Başlangıç)';
+$_['entry_date_modified_to']     = 'Düzenleme Tarihi (Bitiş)';
+
+// Help
+$_['help_override']              = 'Bir anti-fraud (sahtekarlık önleme) eklentisi nedeniyle müşteri siparişinin durumunu değiştirmeniz engelleniyorsa, geçersiz kılmayı etkinleştirin.';
+
+// Error
+$_['error_warning']              = 'Uyarı: Lütfen formu hatalara karşı dikkatlice kontrol edin!';
+$_['error_permission']           = 'Uyarı: Siparişleri düzenleme iznine sahip değilsiniz!';
+$_['error_invoice_no']           = 'Uyarı: Fatura No. zaten önceden oluşturulmuş!';
+$_['error_order']                = 'Uyarı: Sipariş mevcut değil!';
+$_['error_affiliate']            = 'Uyarı: Ortak mevcut değil!';
+$_['error_reward_add']           = 'Uyarı: Bu sipariş için ödül puanları zaten eklendi!';
+$_['error_reward_guest']         = 'Uyarı: Misafir müşteriler ödül puanı kullanamaz!';
+$_['error_commission_add']       = 'Uyarı: Bu sipariş için ortaklık komisyonu zaten eklendi!';

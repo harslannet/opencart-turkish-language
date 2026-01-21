@@ -1,0 +1,137 @@
+<?php
+// Heading
+$_['heading_title']              = 'Ürünler';
+
+// Text
+$_['text_success']               = 'Başarılı: Ürünler güncellendi!';
+$_['text_variant']               = 'Lütfen bu bir varyant ürün olduğu için <a href="%s" target="_blank" class="alert-link">ana ürün</a> verilerini geçersiz kılmanız gerektiğini unutmayın. Aksi takdirde, veriler kaydedildiğinde <a href="%s" target="_blank" class="alert-link">ana ürün</a> verileriyle değiştirilecektir.';
+$_['text_list']                  = 'Ürün Listesi';
+$_['text_add']                   = 'Ürün Ekle';
+$_['text_edit']                  = 'Ürün Düzenle';
+$_['text_variant_add']           = 'Varyant Ekle';
+$_['text_model']                 = 'Model';
+$_['text_price']                 = 'Fiyat';
+$_['text_stock']                 = 'Stok';
+$_['text_specification']         = 'Özellikler';
+$_['text_filter']                = 'Filtrele';
+$_['text_default']               = 'Varsayılan';
+$_['text_keyword']               = 'Boşluk kullanmayın, bunun yerine boşlukları - ile değiştirin ve SEO URL adresinin benzersiz olduğundan emin olun.';
+$_['text_option_add']            = 'Seçenek Ekle';
+$_['text_option_value']          = 'Seçenek Değeri';
+$_['text_select']                = 'Seçenek';
+$_['text_radio']                 = 'Radyo Buton';
+$_['text_checkbox']              = 'Onay Kutusu';
+$_['text_input']                 = 'Girdi';
+$_['text_text']                  = 'Metin';
+$_['text_textarea']              = 'Metin Alanı';
+$_['text_file']                  = 'Dosya';
+$_['text_date']                  = 'Tarih';
+$_['text_datetime']              = 'Tarih &amp; Zaman';
+$_['text_time']                  = 'Zaman';
+$_['text_fixed']                 = 'Sabit Miktar';
+$_['text_subtract']              = 'Azalt';
+$_['text_percentage']            = 'Yüzde';
+$_['text_image']                 = 'Resim';
+$_['text_image_additional']      = 'Ek Resimler';
+$_['text_reward']                = 'Puan ile Satın Al';
+$_['text_points']                = 'Ödül Puanları';
+$_['text_from']                  = 'Başlangıç';
+$_['text_to']                    = 'Bitiş';
+$_['text_subscription_trial']    = '%d ödeme için her %d %s(ler) %s, sonra ';
+$_['text_subscription_duration'] = '%d ödeme için her %d %s(ler) %s';
+$_['text_subscription_cancel']   = 'iptal edilene kadar her %d %s(ler) %s';
+$_['text_day']                   = 'gün';
+$_['text_week']                  = 'hafta';
+$_['text_semi_month']            = 'yarım ay';
+$_['text_month']                 = 'ay';
+$_['text_year']                  = 'yıl';
+$_['text_report']                = 'Raporlar';
+
+// Column
+$_['column_name']                = 'Ürün Adı';
+$_['column_model']               = 'Model';
+$_['column_image']               = 'Resim';
+$_['column_price']               = 'Fiyat';
+$_['column_quantity']            = 'Miktar';
+$_['column_status']              = 'Durum';
+$_['column_ip']                  = 'IP';
+$_['column_store']               = 'Mağaza';
+$_['column_country']             = 'Ülke';
+$_['column_date_added']          = 'Ekleme Tarihi';
+$_['column_action']              = 'Eylem';
+
+// Entry
+$_['entry_name']                 = 'Ürün Adı';
+$_['entry_description']          = 'Açıklama';
+$_['entry_meta_title']           = 'Meta Etiketi Başlığı';
+$_['entry_meta_keyword']         = 'Meta Etiketi Anahtar Kelimeleri';
+$_['entry_meta_description']     = 'Meta Etiketi Açıklaması';
+$_['entry_store']                = 'Mağazalar';
+$_['entry_keyword']              = 'Anahtar Kelime';
+$_['entry_model']                = 'Model';
+$_['entry_product_code']         = 'Ürün Kodları';
+$_['entry_location']             = 'Konum';
+$_['entry_shipping']             = 'Kargo Gerekli mi?';
+$_['entry_manufacturer']         = 'Üretici';
+$_['entry_date_available']       = 'Geçerlilik Tarihi';
+$_['entry_quantity']             = 'Miktar';
+$_['entry_minimum']              = 'Asgari Miktar';
+$_['entry_stock_status']         = 'Stok Yok Durumu';
+$_['entry_price']                = 'Fiyat';
+$_['entry_trial_price']          = 'Deneme Fiyatı';
+$_['entry_tax_class']            = 'Vergi Sınıfı';
+$_['entry_points']               = 'Puanlar';
+$_['entry_subtract']             = 'Stoktan Düş';
+$_['entry_weight_class']         = 'Ağırlık Birimi';
+$_['entry_weight']               = 'Ağırlık';
+$_['entry_dimension']            = 'Boyutlar (U x G x Y)';
+$_['entry_length_class']         = 'Uzunluk Birimi';
+$_['entry_length']               = 'Uzunluk';
+$_['entry_width']                = 'Genişlik';
+$_['entry_height']               = 'Yükseklik';
+$_['entry_option']               = 'Seçenek';
+$_['entry_option_value']         = 'Seçenek Değeri';
+$_['entry_customer_group']       = 'Müşteri Grubu';
+$_['entry_special']              = 'Kampanyalı Fiyat';
+$_['entry_type']                 = 'Tür';
+$_['entry_date_start']           = 'Başlangıç Tarihi';
+$_['entry_date_end']             = 'Bitiş Tarihi';
+$_['entry_priority']             = 'Öncelik';
+$_['entry_attribute']            = 'Özellik';
+$_['entry_attribute_group']      = 'Özellik Grubu';
+$_['entry_image']                = 'Resim';
+$_['entry_text']                 = 'Metin';
+$_['entry_required']             = 'Gerekli';
+$_['entry_status']               = 'Durum';
+$_['entry_sort_order']           = 'Sıralama Düzeni';
+$_['entry_category']             = 'Kategoriler';
+$_['entry_filter']               = 'Filtreler';
+$_['entry_download']             = 'Dosyalar';
+$_['entry_related']              = 'Benzer Ürünler';
+$_['entry_tag']                  = 'Ürün Etiketleri';
+$_['entry_reward']               = 'Ödül Puanları';
+$_['entry_layout']               = 'Düzen Geçersiz Kılma';
+$_['entry_subscription']         = 'Abonelik Planı';
+
+// Help
+$_['help_tag']                   = 'Virgülle ayırın';
+$_['help_minimum']               = 'Minimum sipariş miktarını zorla';
+$_['help_stock_status']          = 'Ürün stokta kalmadığında gösterilen durum';
+$_['help_manufacturer']          = '(Otomatik Tamamlama)';
+$_['help_category']              = '(Otomatik Tamamlama)';
+$_['help_filter']                = '(Otomatik Tamamlama)';
+$_['help_download']              = '(Otomatik Tamamlama)';
+$_['help_related']               = '(Otomatik Tamamlama)';
+$_['help_option']                = '(Otomatik Tamamlama)';
+$_['help_points']                = 'Bu ürünü satın almak için gereken puan miktarı. Eğer bu ürünün puanla satın alınmasını istemiyorsanız 0 olarak bırakın.';
+
+// Error
+$_['error_warning']              = 'Uyarı: Lütfen formu hatalara karşı dikkatlice kontrol edin!';
+$_['error_permission']           = 'Uyarı: Ürünleri düzenleme iznine sahip değilsiniz!';
+$_['error_name']                 = 'Ürün Adı 1 ile 255 karakter arasında olmalıdır!';
+$_['error_meta_title']           = 'Meta Başlığı 1 ile 255 karakter arasında olmalıdır!';
+$_['error_model']                = 'Ürün Modeli 1 ile 64 karakter arasında olmalıdır!';
+$_['error_keyword']              = 'SEO URL 1 ile 64 karakter arasında olmalıdır!';
+$_['error_keyword_exists']       = 'SEO URL benzersiz olmalıdır!';
+$_['error_keyword_character']    = 'Anahtar kelime sadece a-z, 0-9, - ve _ karakterlerini kullanabilir!';
+$_['error_required']             = '%s gerekli!';

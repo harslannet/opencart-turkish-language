@@ -1,0 +1,16 @@
+<?php
+// Heading
+$_['heading_title']    = 'Pazaryerleri';
+
+// Text
+$_['text_success']     = 'Başarılı: Pazaryerleri güncellendi!';
+$_['text_list']        = 'Pazaryeri Listesi';
+
+// Column
+$_['column_name']      = 'Pazaryeri Adı';
+$_['column_status']    = 'Durum';
+$_['column_action']    = 'Eylem';
+
+// Error
+$_['error_permission'] = 'Uyarı: Pazaryerlerini düzenleme iznine sahip değilsiniz!';
+$_['error_extension']  = 'Uyarı: Eklenti bulunamadı!';

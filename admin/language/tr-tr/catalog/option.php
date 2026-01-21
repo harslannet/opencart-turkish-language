@@ -1,0 +1,48 @@
+<?php
+// Heading
+$_['heading_title']      = 'Seçenekler';
+
+// Text
+$_['text_success']       = 'Başarılı: Seçenekler güncellendi!';
+$_['text_list']          = 'Seçenek Listesi';
+$_['text_add']           = 'Seçenek Ekle';
+$_['text_edit']          = 'Seçenek Düzenle';
+$_['text_choose']        = 'Seçiniz';
+$_['text_select']        = 'Seçenek';
+$_['text_radio']         = 'Radyo Buton';
+$_['text_checkbox']      = 'Onay Kutusu';
+$_['text_input']         = 'Girdi';
+$_['text_text']          = 'Metin';
+$_['text_textarea']      = 'Metin Alanı';
+$_['text_file']          = 'Dosya';
+$_['text_date']          = 'Tarih';
+$_['text_datetime']      = 'Tarih &amp; Zaman';
+$_['text_time']          = 'Zaman';
+$_['text_regex']         = 'Regex';
+$_['text_option']        = 'Seçenek';
+$_['text_value']         = 'Seçenek Değerleri';
+
+// Column
+$_['column_name']        = 'Seçenek Adı';
+$_['column_sort_order']  = 'Sıralama Düzeni';
+$_['column_action']      = 'Eylem';
+
+// Entry
+$_['entry_name']         = 'Seçenek Adı';
+$_['entry_type']         = 'Tür';
+$_['entry_validation']   = 'Doğrulama';
+$_['entry_option_value'] = 'Seçenek Değer Adı';
+$_['entry_image']        = 'Resim';
+$_['entry_sort_order']   = 'Sıralama Düzeni';
+
+// Help
+$_['help_regex']         = 'Regex kullanın. Örn: /[^a-zA-Z0-9_-]/';
+
+// Error
+$_['error_warning']      = 'Uyarı: Lütfen formu hatalara karşı dikkatlice kontrol edin!';
+$_['error_permission']   = 'Uyarı: Seçenekleri düzenleme iznine sahip değilsiniz!';
+$_['error_name']         = 'Seçenek Adı 1 ile 128 karakter arasında olmalıdır!';
+$_['error_type']         = 'Uyarı: Seçenek Değerleri gerekli!';
+$_['error_option_value'] = 'Seçenek Değer Adı 1 ile 128 karakter arasında olmalıdır!';
+$_['error_value']        = 'Uyarı: Bu seçenek değeri silinemez çünkü şu anda %s ürün ile ilişkilendirilmiştir!';
+$_['error_product']      = 'Uyarı: Bu seçenek silinemez çünkü şu anda %s ürün ile ilişkilendirilmiştir!';

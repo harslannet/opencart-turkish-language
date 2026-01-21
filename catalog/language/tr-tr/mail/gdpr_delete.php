@@ -1,0 +1,12 @@
+<?php
+// Text
+$_['text_subject']   = '%s - KVKK talebi işleme alındı!';
+$_['text_request']   = 'Hesap Silme Talebi';
+$_['text_hello']     = 'Merhaba <strong>%s</strong>,';
+$_['text_user']      = 'Kullanıcı';
+$_['text_delete']    = 'KVKK veri silme talebiniz tamamlandı.';
+$_['text_contact']   = 'Daha fazla bilgi için mağaza sahibiyle iletişime geçebilirsiniz:';
+$_['text_thanks']    = 'Teşekkürler,';
+
+// Button
+$_['button_contact'] = 'Bize Ulaşın';

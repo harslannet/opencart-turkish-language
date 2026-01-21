@@ -1,0 +1,33 @@
+<?php
+// Text
+$_['text_subject']               = '%s - Abonelik %s';
+$_['text_greeting']              = '%s ürününe gösterdiğiniz ilgi için teşekkür ederiz. Abonelik talebiniz alındı ve ödemeniz onaylandıktan sonra işleme konulacaktır.';
+$_['text_link']                  = 'Aboneliğinizi görüntülemek için aşağıdaki bağlantıya tıklayın:';
+$_['text_promotion']             = 'Başarılı: Bu abonelikle birlikte promosyonel bir özellik başarıyla eklendi!';
+$_['text_subscription_duration'] = '%d ödeme boyunca her %d %s';
+$_['text_subscription_cancel']   = 'İptal edilene kadar her %d %s';
+$_['text_subscription_detail']   = 'Abonelik Detayları';
+$_['text_instruction']           = 'Talimatlar';
+$_['text_orders_id']             = 'Sipariş ID:';
+$_['text_date_added']            = 'Ekleme Tarihi:';
+$_['text_order_status']          = 'Sipariş Durumu:';
+$_['text_payment_method']        = 'Ödeme Yöntemi:';
+$_['text_payment_address']       = 'Fatura Adresi';
+$_['text_email']                 = 'E-posta:';
+$_['text_telephone']             = 'Telefon:';
+$_['text_ip']                    = 'IP Adresi:';
+$_['text_products']              = 'Ürünler';
+$_['text_product']               = 'Ürün';
+$_['text_model']                 = 'Model';
+$_['text_quantity']              = 'Miktar';
+$_['text_price']                 = 'Fiyat';
+$_['text_order_total']           = 'Sipariş Toplamları';
+$_['text_total']                 = 'Toplam';
+$_['text_comment']               = 'Aboneliğinizle ilgili yorumlar:';
+$_['text_description']           = 'Açıklama';
+$_['text_day']                   = 'gün';
+$_['text_week']                  = 'hafta';
+$_['text_semi_month']            = 'yarım ay';
+$_['text_month']                 = 'ay';
+$_['text_year']                  = 'yıl';
+$_['text_footer']                = 'Herhangi bir sorunuz varsa lütfen bu e-postayı yanıtlayın.';

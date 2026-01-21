@@ -1,0 +1,28 @@
+<?php
+// Heading
+$_['heading_title']    = 'Afişler';
+
+// Text
+$_['text_success']     = 'Başarılı: Afişler güncellendi!';
+$_['text_list']        = 'Afiş Listesi';
+$_['text_add']         = 'Afiş Ekle';
+$_['text_edit']        = 'Afiş Düzenle';
+$_['text_default']     = 'Varsayılan';
+
+// Column
+$_['column_name']      = 'Afiş Adı';
+$_['column_status']    = 'Durum';
+$_['column_action']    = 'Eylem';
+
+// Entry
+$_['entry_name']       = 'Afiş Adı';
+$_['entry_title']      = 'Başlık';
+$_['entry_link']       = 'Bağlantı';
+$_['entry_image']      = 'Resim';
+$_['entry_status']     = 'Durum';
+$_['entry_sort_order'] = 'Sıralama Düzeni';
+
+// Error
+$_['error_permission'] = 'Uyarı: Afişleri düzenleme iznine sahip değilsiniz!';
+$_['error_name']       = 'Afiş Adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_title']      = 'Afiş Başlığı 2 ile 64 karakter arasında olmalıdır!';
